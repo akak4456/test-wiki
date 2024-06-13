@@ -14,4 +14,4 @@ if(조건1) {
 조건1이 참이면 실행1이 실행된다. 조건 1이 참일 경우 어떠한 경우에도 실행2가 실행되지 않는다.
 조건1이 거짓이고 조건2가 참일 때 실행2가 실행된다
 ## 백준 참고 문제
-1330번: 두 수 비교하기(문제 링크: https://www.acmicpc.net/problem/1330, 참고 md: )
+1330번: 두 수 비교하기(문제 링크: https://www.acmicpc.net/problem/1330, [참고 md] (https://github.com/akak4456/test-wiki/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A8%EC%88%9C%EA%B5%AC%ED%98%84/1330%EB%B2%88-%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md) )
